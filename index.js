@@ -20,7 +20,7 @@ const client = new Client({
 // -------------------------------------------------
 // 🔧 CONFIG À MODIFIER
 // -------------------------------------------------
-const TOKEN = "";
+const TOKEN = "MTQ0Nzk4NjYyNjEyMTk2MTUzMw.GlZZsi.SgF26mtFGMNfkQJvuwuuy6di7RK9Yqcd0Ylb5Q";
 const CHANNEL_ID = "1447993420353241369";
 const CATEGORY_ID = "1433808836321349713";
 const ROLE_TO_PING = "1442973069365870702";
